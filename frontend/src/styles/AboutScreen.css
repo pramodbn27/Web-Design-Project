@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+.AboutScreen{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.about_us{
+  display: block;
+  width: 80%;
+  min-height: 60vh;
+  /* background: #212529!important; */
+  color: #212529;
+  text-align: left;
+  position: relative;
+  padding: 70px 10% 50px 10%;
+}
+
+.about_us > h2{
+  display: block;
+  color: #212529;
+  font-size: 32px;
+  line-height: 31px;
+  letter-spacing: 1px;
+  font-weight: 700;
+  margin: 0 auto 30px;
+}
+
+.about_us > span {
+  display: block;
+  color: #212529;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.75;
+  margin: 20px auto 10px;
+}
+
+.about_us > p{
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.75;
+  margin: 0 auto 10px;
+}
+
+
+
+.about_us > .mission{
+  color: #212529;
+  display: blcok;
+  width: 60%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-color: #0e0e0e24;
+  margin-left: 20%;
+  padding: 5px 10px; 
+
+}
+
+.about_us > .mission > span{
+  display: block;
+  margin: 0 auto 10px;
+  font-size: x-large;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+}
+.about_us > .mission > p{
+  display: block;
+  color: #212529;
+  margin: 0 auto 10px;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+}
+/* .about_us > .mission > span{
+  display: block;
+  margin: 0 auto 10px;
+  font-size: x-large;
+  text-align: center;
+  font-weight: 500;
+  line-height: 1.75;
+} */
+

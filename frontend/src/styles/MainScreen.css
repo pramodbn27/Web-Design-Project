@@ -1,0 +1,7 @@
+/* @import url('https://fonts.googleapis.com/css?family=Muli&display=swap'); */
+
+.mainscreen{
+    background-image: url('/src/images/pexels-gdtography-911758.jpg');
+    background-repeat: no-repeat;
+	background-size:cover;
+}
